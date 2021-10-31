@@ -4,8 +4,8 @@
 
 # Members
 
-William Gilpin, Assistant Professor of Physics
-Department of Physics & Oden Institute for Computational Engineering and Sciences
+William Gilpin, Assistant Professor of Physics\
+Department of Physics & Oden Institute for Computational Engineering and Sciences\
 [[CV]](http://www.wgilpin.com/CV/wgilpin_CV.pdf) [[Twitter]](https://twitter.com/wgilpin0) [[Web]](http://www.wgilpin.com/) [[Email]](wgilpin@fas.[dravrah%20spelled%20backwards].edu) [[GitHub]](https://github.com/williamgilpin)
 
 
