@@ -81,7 +81,7 @@
 
 <iframe src="https://player.vimeo.com/video/641409391?title=0&byline=0&portrait=0" width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
-<sub>Thomas' cyclic chaotic attractor. This system is included in our recent [paper](https://arxiv.org/abs/2110.05266) presenting a database[database](https://github.com/williamgilpin/dysts) of strange attractors for benchmarking time series forecasting models</sub>
+<sub>Thomas' cyclic chaotic attractor. This system is included in our recent [paper](https://arxiv.org/abs/2110.05266) presenting a [database](https://github.com/williamgilpin/dysts) of strange attractors for benchmarking time series forecasting models</sub>
 
 <iframe src="https://player.vimeo.com/video/641413199?title=0&byline=0&portrait=0" width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 

@@ -2,6 +2,9 @@
 
 <!-- # Research -->
 
+<img src="../assets/banner.png" width="100%" class="center"/>
+
+
 Our curiousity-driven research group bridges fluid dynamics, machine learning, and systems biology. We develop new theory and algorithms for analysis and control of chaotic systems---ranging from turbulent puffs to neural spikes---and collaborate to apply these tools broadly. One part of the lab develops novel machine learning algorithms for time series, drawing upon the classical physics of complex systems such as strange attractors, cellular automata, and random graphs. The second part of the group applies these principles to real-world complex systems such as biological measurements and fluid mixing.
 
 Check out our [gallery](pages/gallery.html)
@@ -11,7 +14,7 @@ Check out our [gallery](pages/gallery.html)
 William Gilpin, Assistant Professor of Physics\
 Department of Physics & Oden Institute for Computational Engineering and Sciences\
 The University of Texas at Austin\
-[[CV]](http://www.wgilpin.com/CV/wgilpin_CV.pdf) [[Twitter]](https://twitter.com/wgilpin0) [[Web]](http://www.wgilpin.com/?utm_source=labwebsite) [[Email]](wgilpin@fas.[dravrah%20spelled%20backwards].edu) [[GitHub]](https://github.com/williamgilpin)
+[[CV]](http://www.wgilpin.com/CV/wgilpin_CV.pdf) [[Twitter]](https://twitter.com/wgilpin0) [[Web]](http://www.wgilpin.com/?utm_source=labwebsite) [[Email]](mailto:wgilpin@fas.[dravrah%20spelled%20backwards].edu) [[GitHub]](https://github.com/williamgilpin)
 
 
 # Join
