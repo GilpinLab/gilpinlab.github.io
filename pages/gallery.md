@@ -9,10 +9,10 @@
           text-align: center;
         }
         iframe {
-          position: absolute;
+          /*position: absolute;
           top: 0;
           overflow: auto;
-          display: block;
+          display: block;*/
           height: 400;
           width: 100%;
           frameborder:  0;
