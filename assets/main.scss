@@ -11,5 +11,8 @@ $text-color: #e6e6e6; /* an off-white for the text */
 $grey-color-light: #565656; /* for the border-top separators */
 $grey-color-dark: #adadad; /* such as the site title in the header, visited */
 $link-color: #add8e6;
+$a {
+    color: add8e6;
+}
 
 @import "{{ site.theme }}";

@@ -30,8 +30,7 @@
 
 <body>
   <figure>
-    <iframe src="https://player.vimeo.com/video/641409391?title=0&byline=0&portrait=0" \
-    webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    <iframe src="https://player.vimeo.com/video/641409391?title=0&byline=0&portrait=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     <figcaption>Thomas' cyclic chaotic attractor/figcaption>
   </figure>
 </body>
