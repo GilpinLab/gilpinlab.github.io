@@ -10,6 +10,26 @@
     grey-color-light: #565656;
     grey-color-dark: #adadad;
   }
+  figure {
+    text-align: center;
+  }
+  iframe {
+    /*position: absolute;
+    top: 0;
+    overflow: auto;
+    display: block;*/
+    height: 400;
+    width: 100%;
+    frameborder: 0;
+  }
+  figcaption {
+/*    position: absolute;
+    bottom: 0;
+    height: 150;
+    width: 100%;*/
+    text-align: center;
+    /*border: 1px solid blue;*/
+  }
 </style>
 
 
