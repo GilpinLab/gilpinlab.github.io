@@ -15,7 +15,7 @@
 
 <iframe src="https://player.vimeo.com/video/641413199?title=0&byline=0&portrait=0" width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
-<sub>Six stages of training a convolutinal neural network on Conway's Game of Life cellular automaton. See recent [paper](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.100.032402) and its accompanying [code](https://github.com/williamgilpin/convoca)</sub>
+<sub>Six stages of training a convolutional neural network on Conway's Game of Life cellular automaton. See recent [paper](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.100.032402) and its accompanying [code](https://github.com/williamgilpin/convoca)</sub>
 
 
 <iframe src="https://player.vimeo.com/video/641410665?title=0&byline=0&portrait=0" width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
