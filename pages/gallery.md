@@ -29,7 +29,10 @@
 
 # tests
 
-<iframe src="https://player.vimeo.com/video/641410665?title=0&byline=0&portrait=0" width=device-width height="100%"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+<video width="100%" controls>
+  <source src="https://player.vimeo.com/video/641410665?title=0&byline=0&portrait=0" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 <sub>Training four different forecasting models on the chaotic attractor of the Lorenz system.</sub>
 
