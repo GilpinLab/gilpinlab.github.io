@@ -20,10 +20,10 @@
 <sub>Training four different forecasting models on the chaotic attractor of the Lorenz system. From the benchmarks of our recent [paper](https://arxiv.org/abs/2110.05266) and [database](https://github.com/williamgilpin/dysts) for benchmarking time series forecasting models on chaotic attractors.</sub>
 
 <!-- ![A feeding tornaria larvafeeding](../assets/gallery/tornaria.jpg) -->
-<img src="../assets/gallery/tornaria.jpg" width="100%" height="400"/>
+<img src="../assets/gallery/tornaria.jpg" width="100%" height="100%"/>
 <sub>A feeding tornaria, the larva of an acorn worm.</sub>
 
-<iframe src="https://player.vimeo.com/video/641414619?title=0&byline=0&portrait=0" width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+<iframe src="https://player.vimeo.com/video/641414619?title=0&byline=0&portrait=0" width="100%" height="100vh" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 <sub>Trajectories of the FitzHugh-Nagumo neuron model in a limit cycle regime. Dynamical noise is included, and purple dashes indicate the nullcline of a slow variable.</sub>
 
