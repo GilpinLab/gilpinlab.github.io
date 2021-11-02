@@ -3,6 +3,10 @@
   body {
     background-color: #000000;
     text-color: #e6e6e6;
+    color: #e6e6e6;
+    a:  {
+      color: #87ceeb;
+    };
     grey-color-light: #565656;
     grey-color-dark: #adadad;
   }
