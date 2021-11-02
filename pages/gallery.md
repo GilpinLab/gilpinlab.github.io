@@ -52,6 +52,11 @@
 </body>
  -->
 
+<figure>
+    <iframe src="https://player.vimeo.com/video/192180842?title=0&byline=0&portrait=0" width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+    <figcaption>Test test test</figcaption>
+</figure>
+
 
 
 <iframe src="https://player.vimeo.com/video/192180842?title=0&byline=0&portrait=0" width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
