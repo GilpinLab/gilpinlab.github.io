@@ -17,7 +17,7 @@ Department of Physics & Oden Institute for Computational Engineering and Science
 
 # Publications
 
-
+_Coming soon once the template is fixed. For now, see William's [CV](http://www.wgilpin.com/CV/wgilpin_CV.pdf)_
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-0QGD65K33F"></script>
