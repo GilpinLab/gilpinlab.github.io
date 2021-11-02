@@ -14,17 +14,26 @@
 <sub>Training four different forecasting models on the chaotic attractor of the Lorenz system.</sub>
 
 
-<iframe src="https://player.vimeo.com/video/641410665?title=0&byline=0&portrait=0" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+<iframe src="https://player.vimeo.com/video/641410665?title=0&byline=0&portrait=0" width="667" height="667" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 <sub>Training four different forecasting models on the chaotic attractor of the Lorenz system.</sub>
 
-<iframe src="https://player.vimeo.com/video/641410665?title=0&byline=0&portrait=0" width="100%" height="auto"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+<iframe src="https://player.vimeo.com/video/641410665?title=0&byline=0&portrait=0" width="100%" height="100vh"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+
+<sub>Training four different forecasting models on the chaotic attractor of the Lorenz system.</sub>
+
+
+<iframe src="https://player.vimeo.com/video/641410665?title=0&byline=0&portrait=0" width="auto" height="auto"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+
+<sub>Training four different forecasting models on the chaotic attractor of the Lorenz system.</sub>
+
+<iframe src="https://player.vimeo.com/video/641410665?title=0&byline=0&portrait=0" width=auto height=auto  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 <sub>Training four different forecasting models on the chaotic attractor of the Lorenz system.</sub>
 
 
 
-<iframe src="https://player.vimeo.com/video/641414619?title=0&byline=0&portrait=0" width="667" height=auto frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+<iframe src="https://player.vimeo.com/video/641414619?title=0&byline=0&portrait=0" width="667" height="667" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 <sub>Trajectories of the FitzHugh-Nagumo neuron model in a limit cycle regime. Dynamical noise is included, and purple dashes indicate the nullcline of the slow variable.</sub>
 
