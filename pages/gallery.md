@@ -89,7 +89,7 @@
 <sub>Trajectories of the FitzHugh-Nagumo neuron model in a limit cycle regime. Dynamical noise is included, and purple dashes indicate the nullcline of a slow variable.</sub>
 
 
-<iframe src="https://player.vimeo.com/video/263223043?title=0&byline=0&portrait=0" width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+<iframe src="https://player.vimeo.com/video/263223043?title=0&byline=0&portrait=0" width="70%" height="70%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 <sub>Particles advected by the blinking vortex map. This controllable chaotic fluid flow was used in our paper on cryptography with hydrodynamics [here](https://www.pnas.org/content/115/19/4869)</sub>
 
