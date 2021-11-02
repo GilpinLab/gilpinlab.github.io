@@ -2,6 +2,8 @@
 
 Our curiousity-driven research group bridges fluid dynamics, machine learning, and systems biology. We develop new theory and algorithms for analysis and control of chaotic systems---ranging from turbulent puffs to neural spikes---and collaborates to apply these tools broadly. One part of the lab develops novel machine learning algorithms for time series, drawing upon the classical physics of complex systems such as strange attractors, cellular automata, and formal grammars. The second part of the group applies these principles to real-world complex systems such as biological measurements and fluid mixing.
 
+Check out our [gallery](pages/gallery.html)
+
 # Members
 
 William Gilpin, Assistant Professor of Physics\
@@ -15,9 +17,11 @@ Department of Physics & Oden Institute for Computational Engineering and Science
 
 **Graduate Students.** If you have not yet applied, please apply to the Department of Physics or the Oden CSEM program. Other departments are definitely possible, too. If you are already at UT, please email William.
 
-# Publications
+<!-- # Publications
 
 _Coming soon once the template is fixed. For now, see William's [CV](http://www.wgilpin.com/CV/wgilpin_CV.pdf)_
+ -->
+
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-0QGD65K33F"></script>
