@@ -17,6 +17,8 @@ Department of Physics & Oden Institute for Computational Engineering and Science
 
 **Graduate Students.** If you have not yet applied, please apply to the Department of Physics or the Oden CSEM program. Other departments are definitely possible, too. If you are already at UT, please email William.
 
+_All positions are for Fall 2022 at the earliest._
+
 <!-- # Publications
 
 _Coming soon once the template is fixed. For now, see William's [CV](http://www.wgilpin.com/CV/wgilpin_CV.pdf)_
