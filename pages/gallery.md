@@ -14,11 +14,11 @@
 <sub>Training four different forecasting models on the chaotic attractor of the Lorenz system.</sub>
 
 
-<iframe src="https://player.vimeo.com/video/641410665?title=0&byline=0&portrait=0" flex-grow="1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+<iframe src="https://player.vimeo.com/video/641410665?title=0&byline=0&portrait=0" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 <sub>Training four different forecasting models on the chaotic attractor of the Lorenz system.</sub>
 
-<iframe src="https://player.vimeo.com/video/641410665?title=0&byline=0&portrait=0" display="flex" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+<iframe src="https://player.vimeo.com/video/641410665?title=0&byline=0&portrait=0" width="100%" height="auto"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 <sub>Training four different forecasting models on the chaotic attractor of the Lorenz system.</sub>
 
