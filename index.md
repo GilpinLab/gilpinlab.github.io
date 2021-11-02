@@ -29,7 +29,7 @@ _All positions are for Fall 2022 at the earliest._
 _Coming soon once the template is fixed. For now, see William's [CV](http://www.wgilpin.com/CV/wgilpin_CV.pdf)_
  -->
 
-<img src="./assets/banner2.png" width="100%" class="center"/>
+<img src="./assets/banner2.jpg" width="100%" class="center"/>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-0QGD65K33F"></script>
