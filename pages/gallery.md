@@ -97,6 +97,7 @@
 
 <!-- ![A feeding tornaria larvafeeding](../assets/gallery/tornaria.jpg) -->
 <img src="../assets/gallery/tornaria.jpg" width="400" height="400"/>
+
 <sub>A feeding tornaria, the larva of an acorn worm.</sub>
 
 <iframe src="https://player.vimeo.com/video/641414619?title=0&byline=0&portrait=0" width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
