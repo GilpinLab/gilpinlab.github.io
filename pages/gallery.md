@@ -19,8 +19,9 @@
 
 <sub>Training four different forecasting models on the chaotic attractor of the Lorenz system. From the benchmarks of our recent [paper](https://arxiv.org/abs/2110.05266) and [database](https://github.com/williamgilpin/dysts) for benchmarking time series forecasting models on chaotic attractors.</sub>
 
-![A tornaria larva feeding](../assets/gallery/tornaria.jpg)
-<sub>A tornaria larva feeding.</sub>
+<!-- ![A feeding tornaria larvafeeding](../assets/gallery/tornaria.jpg) -->
+<img src="../assets/gallery/tornaria.jpg" width="100%" height="400"/>
+<sub>A feeding tornaria, the larva of an acorn worm.</sub>
 
 <iframe src="https://player.vimeo.com/video/641414619?title=0&byline=0&portrait=0" width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
