@@ -6,6 +6,8 @@
           height: 70vh;
           margin: 30px auto;*/
           /*border: 1px solid red;*/
+          height: 600;
+          width: 100%;
           text-align: center;
         }
         iframe {
@@ -20,7 +22,7 @@
         figcaption {
           position: absolute;
           bottom: 0;
-          height: 10%;
+          height: 150;
           width: 100%;
           /*border: 1px solid blue;*/
         }
@@ -31,7 +33,7 @@
 <body>
   <figure>
     <iframe src="https://player.vimeo.com/video/641409391?title=0&byline=0&portrait=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-    <figcaption>Thomas' cyclic chaotic attractor/figcaption>
+    <figcaption>Thomas' cyclic chaotic attractor</figcaption>
   </figure>
 </body>
 
