@@ -1,10 +1,10 @@
 <head>
     <style>
         figure {
-          position: relative;
-          width: 90vw;
+          /*position: relative;*/
+/*          width: 90vw;
           height: 70vh;
-          margin: 30px auto;
+          margin: 30px auto;*/
           /*border: 1px solid red;*/
           text-align: center;
         }
