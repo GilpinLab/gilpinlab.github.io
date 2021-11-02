@@ -1,33 +1,33 @@
-<head>
-    <style>
-        figure {
-          /*position: relative;*/
+
+<style>
+    figure {
+      /*position: relative;*/
 /*          width: 90vw;
-          height: 70vh;
-          margin: 30px auto;*/
-          /*border: 1px solid red;*/
-          height: 600;
-          width: 100%;
-          text-align: center;
-        }
-        iframe {
-          /*position: absolute;
-          top: 0;
-          overflow: auto;
-          display: block;*/
-          height: 400;
-          width: 100%;
-          frameborder:  0;
-        }
-        figcaption {
-          position: absolute;
-          bottom: 0;
-          height: 150;
-          width: 100%;
-          /*border: 1px solid blue;*/
-        }
-    </style>
-</head>
+      height: 70vh;
+      margin: 30px auto;*/
+      /*border: 1px solid red;*/
+      height: 600;
+      width: 100%;
+      text-align: center;
+    }
+    iframe {
+      /*position: absolute;
+      top: 0;
+      overflow: auto;
+      display: block;*/
+      height: 400;
+      width: 100%;
+      frameborder: 0;
+    }
+    figcaption {
+      position: absolute;
+      bottom: 0;
+      height: 150;
+      width: 100%;
+      /*border: 1px solid blue;*/
+    }
+</style>
+
 
 
 <body>
