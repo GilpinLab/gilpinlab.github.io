@@ -9,12 +9,12 @@
 <sub>Training four different forecasting models on the chaotic attractor of the Lorenz system.</sub>
 
 
-<iframe src="https://player.vimeo.com/video/641410665?title=0&byline=0&portrait=0" width="500" height="5000" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+<iframe src="https://player.vimeo.com/video/641410665?title=0&byline=0&portrait=0" width="500" height=auto frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 <sub>Training four different forecasting models on the chaotic attractor of the Lorenz system.</sub>
 
 
-<iframe src="https://player.vimeo.com/video/641414619?title=0&byline=0&portrait=0" width="500" height="5000" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+<iframe src="https://player.vimeo.com/video/641414619?title=0&byline=0&portrait=0" width="500" height=auto frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 <sub>Trajectories of the FitzHugh-Nagumo neuron model in a limit cycle regime. Dynamical noise is included, and purple dashe indicates the nullcline of the slow variable.</sub>
 
