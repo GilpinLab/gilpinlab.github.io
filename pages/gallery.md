@@ -81,7 +81,7 @@
 
 <iframe src="https://player.vimeo.com/video/641409391?title=0&byline=0&portrait=0" width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
-<sub>Thomas' cyclic chaotic attractor.</sub>
+<sub>Thomas' cyclic chaotic attractor. This system is included in our recent [paper](https://arxiv.org/abs/2110.05266) presenting a database[database](https://github.com/williamgilpin/dysts) of strange attractors for benchmarking time series forecasting models</sub>
 
 <iframe src="https://player.vimeo.com/video/641413199?title=0&byline=0&portrait=0" width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
@@ -94,6 +94,12 @@
 <iframe src="https://player.vimeo.com/video/641410665?title=0&byline=0&portrait=0" width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 <sub>Training four different forecasting models on the chaotic attractor of the Lorenz system. From the benchmarks of our recent [paper](https://arxiv.org/abs/2110.05266) and [database](https://github.com/williamgilpin/dysts) for benchmarking time series forecasting models on chaotic attractors.</sub>
+
+
+<iframe src="https://player.vimeo.com/video/641414845?title=0&byline=0&portrait=0" width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+
+<sub> Embedding an EEG dataset using techniques for reconstructing the attractors of dynamical systems. See recent [paper](https://arxiv.org/abs/2002.05909) and its accompanying [code](https://github.com/williamgilpin/fnn)</sub>
+
 
 <!-- ![A feeding tornaria larvafeeding](../assets/gallery/tornaria.jpg) -->
 <img src="../assets/gallery/tornaria.jpg" width="400" height="400" class="center"/>
