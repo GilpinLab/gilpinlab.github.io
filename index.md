@@ -5,12 +5,12 @@
 
 
 
-Our curiousity-driven research group bridges fluid dynamics, machine learning, and systems biology. We develop new theory and algorithms for analysis and control of chaotic systems---ranging from turbulent puffs to neural spikes---and collaborate to apply these tools broadly. One part of the lab develops novel machine learning algorithms for time series, drawing upon the classical physics of complex systems such as strange attractors, cellular automata, and random graphs. The second part of the group applies these principles to real-world complex systems such as biological measurements and fluid mixing.
+Our curiosity-driven research group bridges fluid dynamics, machine learning, and systems biology. We develop new theory and algorithms for analysis and control of chaotic systems---ranging from turbulent puffs to neural spikes---and collaborate to apply these tools broadly. One part of the lab develops novel machine learning algorithms for time series, drawing upon the classical physics of complex systems such as strange attractors, cellular automata, and random graphs. The second part of the group applies these principles to real-world complex systems such as biological measurements and fluid mixing.
 
-Check out our [gallery](pages/gallery.html)
+Check out our [gallery](pages/gallery.html)\
 
-# Members
-
+<!-- # Members -->
+<br>
 William Gilpin, Assistant Professor of Physics\
 Department of Physics & Oden Institute for Computational Engineering and Sciences\
 The University of Texas at Austin\
