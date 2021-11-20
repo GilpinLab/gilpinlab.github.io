@@ -83,10 +83,9 @@
 
 <sub>The Hadley model for atmospheric convection. This system is included in our recent [paper](https://arxiv.org/abs/2110.05266) presenting a [database](https://github.com/williamgilpin/dysts) of strange attractors for benchmarking time series forecasting models</sub>
 
-
-
-<img src="../assets/gallery/shenzhen2.jpeg" width="100%" height="250" class="center"/>
-<img src="../assets/gallery/shenzhen.jpeg" width="100%" height="250" class="center"/>
+<!-- 1600 x 1067 -->
+<img src="../assets/gallery/shenzhen2.jpeg" width="400" height="267" class="center"/>
+<img src="../assets/gallery/shenzhen.jpeg" width="400" height="267" class="center"/>
 
 <sub>The Hadley cell video above was shown in the [2021 Neal Digital Gallery](https://www.nealgallery.com/) exhibition in Shenzhen.</sub>
 
