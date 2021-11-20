@@ -85,8 +85,8 @@
 
 
 
-<img src="../assets/gallery/shenzhen2.jpeg" width="100%" height="400" class="center"/>
-<img src="../assets/gallery/shenzhen.jpeg" width="100%" height="400" class="center"/>
+<img src="../assets/gallery/shenzhen2.jpeg" width="100%" height="250" class="center"/>
+<img src="../assets/gallery/shenzhen.jpeg" width="100%" height="250" class="center"/>
 
 <sub>The Hadley cell video above was shown in the [2021 Neal Digital Gallery](https://www.nealgallery.com/) exhibition in Shenzhen.</sub>
 
