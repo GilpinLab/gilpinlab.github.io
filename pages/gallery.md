@@ -92,6 +92,7 @@
 <img src="../assets/gallery/shenzhen2.jpeg" width="400" height="267" class="center"/>
 <img src="../assets/gallery/shenzhen4.jpeg" width="400" height="267" class="center"/>
 <img src="../assets/gallery/shenzhen.jpeg" width="400" height="267" class="center"/>
+<br>
 <sub>The two videos above were shown in the [2021 Neal Digital Gallery](https://www.nealgallery.com/) exhibition in Shenzhen.</sub>
 
 
