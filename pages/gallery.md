@@ -108,7 +108,7 @@
 <!-- 1600 x 1067 -->
 <img src="../assets/gallery/shenzhen2.jpeg" width="400" height="267" class="center"/>
 <img src="../assets/gallery/shenzhen4.jpeg" width="400" height="267" class="center"/>
-<img src="../assets/gallery/hangzhou1.jpeg" width="400" height="267" class="center"/>
+<!-- <img src="../assets/gallery/hangzhou1.jpeg" width="400" height="267" class="center"/> -->
 <br>
 <sub>Two of the videos shown above were included in the 2021--2022 Neal Gallery traveling exhibition in Shenzhen and Hangzhou.</sub>
 
