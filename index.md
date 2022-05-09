@@ -25,6 +25,12 @@ The University of Texas at Austin\
 
 _All positions are for Fall 2022 at the earliest._
 
+# Alumni 
+
+Yasa Baig. Harvard QBio REU while undergrad at Duke. _Next position:_ Marshall Scholar at Cambridge
+
+
+
 <!-- # Publications
 
 _Coming soon once the template is fixed. For now, see William's [CV](http://www.wgilpin.com/CV/wgilpin_CV.pdf)_
