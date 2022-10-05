@@ -1,6 +1,6 @@
 # Postdoc position in machine learning for dynamical systems at UT Austin
 
-The dynamical systems group at UT Austin seeks applications for a postdoctoral researcher to work alongside [Professor William Gilpin](http://www.wgilpin.com/) and our team [website](gilpinlab.github.io). Our curiosity-driven research group is broadly interested in computational approaches to understanding natural systems. We are very excited to hear from researchers with diverse scientific experience; right now we are working on the following areas:
+The dynamical systems group at UT Austin seeks applications for a postdoctoral researcher to work alongside [Professor William Gilpin](http://www.wgilpin.com/) and our [team](http://www.gilpinlab.github.io). Our curiosity-driven research group is broadly interested in computational approaches to understanding natural systems. We are very excited to hear from researchers with diverse scientific experience; right now we are working on the following areas:
 
 + Developing new statistical learning techniques grounded nonlinear dynamics and statistical physics
 + Stabilizing and controlling nonlinear signals based on sparse time series measurements
